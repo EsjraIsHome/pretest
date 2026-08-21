@@ -6,5 +6,8 @@ public class Prob2 {
 		
 
 	}
-
+	
+	public static boolean isVowel(String letter) {
+		if (letter.equals("a") || letter.equals)
+	}
 }
